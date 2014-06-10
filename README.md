@@ -17,3 +17,5 @@ function func() {
 
 func.bind(whatever);
 ```
+
+Polyfill code from: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind
