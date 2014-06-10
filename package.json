@@ -1,0 +1,16 @@
+{
+  "name": "bindpolyfill",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kahnjw/bindpolyfill.git"
+  },
+  "author": "Jarrod Kahn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kahnjw/bindpolyfill/issues"
+  },
+  "homepage": "https://github.com/kahnjw/bindpolyfill"
+}
